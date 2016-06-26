@@ -4,4 +4,4 @@ This is a basic frontend for Google's WebP conversion programs. Don't expect any
 
 To use it, you'll need libwebp, which you can find here - [https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html](https://storage.googleapis.com/downloads.webmproject.org/releases/webp/index.html).
 
-You'll have to place it in: <Program Folder>\libwebp. So that the path looks like this <Program Folder>\libwebp\bin\.
+You'll have to place it in: [Program Folder]\libwebp. So that the path looks like this [Program Folder]\libwebp\bin\.
